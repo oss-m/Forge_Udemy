@@ -1,0 +1,20 @@
+{
+  "name": "10_forge",
+  "version": "1.0.0",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-formidable": "^1.2.0",
+    "forge-apis": "^0.9.6",
+    "fs": "0.0.1-security",
+    "multer": "^1.4.4",
+    "node.js": "0.0.1-security"
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Forge_Udemy", "Forge_Udemy\Forge_Udemy.njsproj", "{ED923369-6351-4A7F-8CDD-732C7FC85330}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED923369-6351-4A7F-8CDD-732C7FC85330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED923369-6351-4A7F-8CDD-732C7FC85330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED923369-6351-4A7F-8CDD-732C7FC85330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED923369-6351-4A7F-8CDD-732C7FC85330}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FC829A6-8DCD-41BD-9BD2-19BC37839332}
+	EndGlobalSection
+EndGlobal
